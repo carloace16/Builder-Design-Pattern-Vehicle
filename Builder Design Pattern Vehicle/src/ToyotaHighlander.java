@@ -1,0 +1,5 @@
+public abstract class ToyotaHighlander extends Toyota {
+    public abstract String name();
+    public abstract double price();
+    public abstract String brand();
+}
